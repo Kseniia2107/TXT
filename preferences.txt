@@ -1,0 +1,5 @@
+        1) Favorite_movie - Dnevnik pamyati
+        2) Favorite_series - Most
+        3) Favorite_food - Fish
+        4) Favorite_season - Spring
+        5) Country - Spain

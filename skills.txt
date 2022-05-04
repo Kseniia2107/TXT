@@ -1,0 +1,4 @@
+        1) Git_bash - learning commands: ls,mkdir, rm, mv,cp,less,cat,grep,find,curl
+        2) JS - let, typeof, if and ?, while and for || and &&, functions, arrow functions
+        3) Postman - learning the basics of Postman
+        4) Git_hub - git clone, start. ,git add,git commit -m(-am),git push,git pull,vim,git fetch
