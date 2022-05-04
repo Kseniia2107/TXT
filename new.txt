@@ -1,0 +1,5 @@
+    
+     1) name - Iliiasova Kseniia
+     2) age - 31
+     3) pets - 0
+     4) salary - 500$
